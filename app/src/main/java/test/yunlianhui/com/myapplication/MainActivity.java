@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
      private int chenhaifeng1;
      private String chen;
      private String chen1;
+     private String chenhaifenga;
 
 
     @Override
