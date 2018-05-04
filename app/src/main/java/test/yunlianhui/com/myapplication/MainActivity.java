@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String text;
     private int chenhai;
+     private int chenhaifeng;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
