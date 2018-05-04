@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
     private String text;
     private int chenhai;
      private int chenhaifeng;
-     private int chenhaifeng1;
+
 
 
 
