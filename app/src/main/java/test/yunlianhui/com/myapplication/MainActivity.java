@@ -9,9 +9,8 @@ public class MainActivity extends AppCompatActivity {
     private int chenhai;
      private int chenhaifeng;
      private int chenhaifeng1;
-     private String chen;
-     private String chen1;
-     private String chenhaifenga;
+     private int chen;
+
 
 
     @Override
